@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1644360869 source:d:\kodowanie\podstawy_programowania\lista 6\odgadywacz_v1\odgadywacz.cpp
+	"odgadywacz.h"
+
+1644360869 d:\kodowanie\podstawy_programowania\lista 6\odgadywacz_v1\odgadywacz.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<algorithm>
+	<vector>
+
+1644360869 source:d:\kodowanie\podstawy_programowania\lista 6\odgadywacz_v1\main.cpp
+	"odgadywacz.h"
+
